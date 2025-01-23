@@ -1,5 +1,6 @@
 {
   "name": "portaltools",
+  "description": "Um portal de ferramentas online para facilitar conversões e cálculos diversos.",
   "type": "module",
   "version": "0.1.0",
   "scripts": {
